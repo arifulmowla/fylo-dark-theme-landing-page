@@ -209,6 +209,7 @@ header {
 
 .subscription {
   min-height: 200px;
+
   .subs-box {
     margin: 0 auto;
     max-width: 800px;
@@ -218,6 +219,7 @@ header {
     right: 5%;
     border-radius: 12px;
     position: absolute;
+    box-shadow: 1px 3px 26px $DarkBlueFooter;
   }
   h2 {
     color: $White;
